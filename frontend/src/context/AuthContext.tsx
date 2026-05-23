@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 
-const API = 'http://localhost:5000/api';
+const API = 'https://lhc-crs-db.onrender.com/api';
 
 // ============ PERMISSIONS DEFINITIONS ============
 export const ALL_PERMISSIONS = [
