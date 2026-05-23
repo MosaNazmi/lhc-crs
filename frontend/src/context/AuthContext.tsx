@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-
+import type { ReactNode } from 'react';
 const API = 'http://localhost:5000/api';
 
 // ============ PERMISSIONS DEFINITIONS ============
