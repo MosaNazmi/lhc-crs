@@ -2,7 +2,7 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 
 const API = 'https://lhc-crs-db.onrender.com/api';
-
+//Mosa
 // ============ PERMISSIONS DEFINITIONS ============
 export const ALL_PERMISSIONS = [
   { key: 'students.view', label: 'عرض الطلاب', group: 'التسجيل' },
